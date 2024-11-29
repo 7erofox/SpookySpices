@@ -11,13 +11,14 @@
         - [ ] Nettle pesto
         - [ ] Haymaker
         - [ ] Shakshuka
+        - [ ] Dukkah
         - [ ] Tomato bruschetta
         - [ ] Porridge pancakes
         - [ ] Courgette muffins
         - [ ] Vinegar soy dip
         - [ ] Pb sauce
         - [ ] Tahini dressing
-        - [ ] Smashed pea
+        - [x] Smashed pea
 
   - [ ] Cosmetics
 
