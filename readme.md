@@ -4,7 +4,7 @@
 
         - [x] Almond feta
         - [x] Cuddle stew
-        - [ ] Broccoli quinoa salad
+        - [x] Broccoli quinoa salad
         - [ ] Minestrone soup
         - [ ] Lindsay's lentil soup
         - [ ] Apoorva's chole
@@ -20,8 +20,12 @@
         - [ ] Tahini dressing
         - [x] Smashed pea
 
-  - [ ] Cosmetics
+  - [ ] Staples
+    - [ ] Single clove garlic
+    - [ ] Sprouts
+    - [ ] FRESH eggs from our own happy chickens
 
+  - [ ] Cosmetics
     - [ ] Shampoo bars
     - [ ] Toothpaste
 
