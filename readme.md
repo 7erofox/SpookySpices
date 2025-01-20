@@ -16,9 +16,10 @@
         - [ ] Porridge pancakes
         - [ ] Courgette muffins
         - [ ] Vinegar soy dip
-        - [ ] Pb sauce
+        - [x] Pb sauce
         - [ ] Tahini dressing
         - [x] Smashed pea
+        - [x] Facon
 
   - [ ] Staples
     - [ ] Single clove garlic
